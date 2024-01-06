@@ -1,5 +1,5 @@
 # Test
- Testing  for function of GIthub
+ Testing the basic function of Github
 
 # Author
  DrSoo
